@@ -1,0 +1,6 @@
+Apr 25, 2024 5:47:37 PM org.game.thegreatescape.view.Game start
+INFO: Starting the application...
+Apr 25, 2024 5:47:37 PM org.game.thegreatescape.view.Game start
+INFO: Set MainMenuFactory
+Apr 25, 2024 5:47:38 PM org.game.thegreatescape.view.Game start
+INFO: Application started successfully.

@@ -1,0 +1,35 @@
+.button{
+    -fx-border-color: #FFFF00;
+    -fx-border-width: 2;
+    -fx-background-color: #998df5;
+    -fx-text-fill: #FFFF00;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-effect: dropshadow( three-pass-box , #FFFF00 , 10, 0.0 , 0 , 1 );
+}
+
+.button:hover {
+    -fx-background-color: #8d7ff5;
+}
+
+.button:pressed {
+    -fx-background-color: #8172f3;
+}
+
+#save {
+    -fx-background-color: #4f337e;
+    -fx-text-fill: white;
+    -fx-border-color: #b6adad;
+    -fx-border-width: 2;
+    -fx-background-radius: 5;
+    -fx-border-radius: 5;
+    -fx-effect: dropshadow( three-pass-box , #3f3f3f, 10, 0.0 , 0 , 1 );
+}
+
+#save:hover {
+    -fx-background-color: #6e539b;
+}
+
+#save:pressed {
+    -fx-background-color: #866eaf;
+}
