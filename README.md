@@ -15,4 +15,4 @@ To begin playing "The Great Escape," follow these steps:
    ```
    mvn exec:java -Dexec.mainClass="org.game.thegreatescape.view.Game"
    ```
-   ### Add -Dexec.args="--disable-logging" to play without logging and nothing to play with
+   Add -Dexec.args="--disable-logging" to play without logging and nothing to play with
