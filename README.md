@@ -17,6 +17,14 @@ To begin playing "The Great Escape," follow these steps:
    ```
    Add -Dexec.args="--disable-logging" to play without logging and nothing to play with
 
+## Character Controls
+Once in a game, you can control character by pressing keyboard:
+▫ Key "D": Move right.
+▫ Key "W": Move up.
+▫ Key "A": Move left.
+▫ Key "S": Move down.
+▫ Key "F": Press and collect items.
+
 
 
 ![MyMovie-ezgif com-video-to-gif-converter](https://github.com/ofgot/TheGreatEscape/assets/113288163/c7d25b53-4276-41f8-bf62-4e15c3d98e0d)
