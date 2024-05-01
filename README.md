@@ -4,6 +4,8 @@ Welcome to the manual for "The Great Escape" game. "The Great Escape" is an
 adventure game where your main aim is to break out of a prison. This game was inspired by
 The Binding of Isaac and based on a top-down perspective, offering various levels
 with different difficulties.
+Full manual you can see here - [The Great Escape .pdf](https://github.com/ofgot/TheGreatEscape/files/15180197/The.Great.Escape.pdf)
+
 ## Getting Started
 To begin playing "The Great Escape," follow these steps:
 1. Install Maven if not already installed.
